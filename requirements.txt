@@ -1,0 +1,6 @@
+numpy
+math
+matplotlib
+scipy
+glob
+sys
