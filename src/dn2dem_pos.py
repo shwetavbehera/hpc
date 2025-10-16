@@ -1,5 +1,5 @@
 import numpy as np
-from src.demmap_pos import demmap_pos
+from demmap_pos import demmap_pos
 
 # Now working with numpy v2+, as per
 # https://github.com/alasdairwilson/demregpy/blob/main/demregpy/dn2dem.py
